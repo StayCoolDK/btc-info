@@ -12,12 +12,18 @@ h1 {
 
 .donation {
     font-size: 12px;
+    
 }
 
 .bitcoin-title {
     font-family: 'Open Sans', sans-serif;
 font-family: 'IBM Plex Sans', sans-serif;
--1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff
+text-shadow: -1px -1px 0 #fff,
+             1px -1px 0 #fff,
+            -1px 1px 0 #fff,
+            1px 1px 0 #fff;
+
+
 }
 
 p {
